@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-<!--
-**NgTrongHao/NgTrongHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Java, Kotlin, TypeScript, Go
--->
+# 💫About Me :
+🌱 I’m currently learning Java, Kotlin, TypeScript, Go
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ng.toho08) 
