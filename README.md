@@ -14,7 +14,7 @@
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NgTrongHao&theme=dark&hide_border=true)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ngtronghao/a221f889-c462-490c-8784-ded42681abd7.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ngtronghao/7063a54d-5e9d-480f-8dde-0d83a3061f8d.png" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NgTrongHao&icon=0&color=1)](https://visitcount.itsvg.in)
