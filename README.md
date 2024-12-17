@@ -14,14 +14,7 @@
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NgTrongHao&theme=dark&hide_border=true)
 
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@ngtronghao/56b231ea-6522-407b-a679-4bb5a0095041.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ngtronghao/304a836c-50df-4663-be26-3a74997f1f39.png" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NgTrongHao&icon=0&color=1)](https://visitcount.itsvg.in)
