@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫About Me :
-🌱 I’m currently learning Java, Kotlin, TypeScript, Go
+🌱 I’m currently learning Spring, NestJS, Go, ReactNative
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ng.toho08) 
